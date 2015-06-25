@@ -1,4 +1,4 @@
-# russ:hint
+# Memory Game
 
 A Famous Framework component
 
