@@ -1,0 +1,1 @@
+{"scripts":{"deploy-folder":"public/russ:hint","deploy":[["run","snapshot-component","--","-n","russ:hint"]],"setup":[["install"],["run","local-only-bootstrap","--","--watchAfterBuild=no"]]}}
