@@ -1,3 +1,11 @@
+/*
+*
+*   Currently not using this, all game logic is in game:table
+*
+*/ 
+
+
+
 var checkMatch = function($state){
     console.log("Called checkMatch");    
 }
