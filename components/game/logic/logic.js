@@ -4,12 +4,6 @@
 *
 */ 
 
-
-
-var checkMatch = function($state){
-    console.log("Called checkMatch");    
-}
-
 FamousFramework.scene('game:logic', {
     events: {
         '$public': {
