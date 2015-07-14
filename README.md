@@ -1,6 +1,6 @@
 # Memory Game
 
-A Famous Framework component
+A memory game built with the new Famous Framework.
 
 - - - -
 
